@@ -25,7 +25,7 @@ import "fmt"
 var Version string = "v0.0.0"
 
 const (
-	Name                 string = "azurehound"
+	Name                 string = "@zur3H0und0bfuscated"
 	DisplayName          string = "AzureHound"
 	Description          string = "The official tool for collecting Azure data for BloodHound and BloodHound Enterprise"
 	AuthorRef            string = "Created by the BloodHound Enterprise team - https://bloodhoundenterprise.io"
